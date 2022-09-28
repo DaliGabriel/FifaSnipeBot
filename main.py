@@ -5,8 +5,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 
 #Put Your EA Credentials
-email = "metalika_expo@hotmail.com"
-password = "C0p0@k123"
+email = "youEaMail"
+password = "UPassword"
 
 #Player to find
 findPlayer = "Gabriel Martinelli"
